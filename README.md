@@ -1,4 +1,7 @@
-# Apm
+Topics in this project: Angular Singal(), Computed(), LinkedSignal(), httpResource()
+
+![image](https://github.com/user-attachments/assets/d02982cf-bf26-4461-9d40-852a6062d09b)
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
 
